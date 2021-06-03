@@ -1,5 +1,5 @@
 {
-   "title": "Smart Vending Machine",
+    "Smart Vending Machine",
     "team": [
         {
             "name": "Karikaran Vettivel",
@@ -16,11 +16,11 @@
             "linkedin_profile":"https://www.linkedin.com/in/bragadeeshansuppusamy"
         },
         {
-            "name": "Team Member Name 3",
-            "email": "email@eng.pdn.ac.lk",
-            "eNumber": "E/yy/xxx",
-            "github_profile":"#",
-            "linkedin_profile":"#"
+            "name": "Girishikan Selvaratnam",
+            "email": "e16115@eng.pdn.ac.lk",
+            "eNumber": "E/16/115",
+            "github_profile":"https://github.com/girish4848",
+            "linkedin_profile":"https://www.linkedin.com/in/girishikan-selvaratnam-78b9a01a7/"
         }
     ],
     "supervisors": [
